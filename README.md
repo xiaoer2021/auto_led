@@ -1,2 +1,2 @@
-# auto_led
-auto、py
+# python自动化定时控制设备
+第一稿
